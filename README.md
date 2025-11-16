@@ -1,4 +1,4 @@
-# 🧾 Digital Register
+# 🧾 GateLog
 
 A **smart visitor management app** built with Flutter and Firebase that replaces traditional paper-based entry logs for apartments and societies.  
 It provides a secure, real-time, and digital way to manage residents, visitors, and admins — available on **Android, iOS, Web, and Desktop**.
